@@ -15,7 +15,10 @@ A web based django application that displays my pics on different topics.The use
 | BEHAVIOUR    | INPUT   |  OUTPUT |
 | :------------- | :------------- | :--------------- |
 | Load website | website url i.e https | View blog |
+## Screenshot
 
+![demo1.png](screenshot.png/)
+![demo1.png]()
 ## Development
 
 Want to contribute? Great!
