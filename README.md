@@ -17,6 +17,7 @@ A web based django application that displays my pics on different topics.The use
 | Load website | website url i.e https | View blog |
 ## Screenshot
  - A image view of the Django Admin page
+ 
 ![demo1.png](screenshot.png/)
 
 ## Development
