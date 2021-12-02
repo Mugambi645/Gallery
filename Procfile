@@ -1,0 +1,1 @@
+web: gunicorn photomania.wsgi --log-file -
