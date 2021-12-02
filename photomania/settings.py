@@ -78,7 +78,7 @@ WSGI_APPLICATION = 'photomania.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/3.2/ref/settings/#databases
 
-"""DATABASES = {
+DATABASES = {
     'default': {
        'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'gallery',
@@ -103,10 +103,10 @@ if config('MODE')=="dev":
            'PORT': '',
        }
        
-   }
+   }"""
 # production
-else:
-   DATABASES = {
+#else:
+DATABASES = {
        'default': dj_database_url.config(
            default=config('DATABASE_URL')
        )
